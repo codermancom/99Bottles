@@ -13,7 +13,7 @@ Languages
 - [x] PHP
 - [x] Ruby
 - [x] Javascript / TypeScript
-- [ ] Shell
+- [x] Shell
 - [ ] Rust
 - [ ] Go
 - [ ] Java
